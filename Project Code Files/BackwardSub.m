@@ -1,3 +1,4 @@
+%reference: https://www.youtube.com/watch?v=kypQD5NedCw
 function  y = BackwardSub(a,b)
 n = length(b);
 y=zeros(n,1);
